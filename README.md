@@ -23,3 +23,7 @@ Contiene encriptación  AES de contraseñas..
 
 ESTE SISTEMA DE INICIO DE SESION ES UNA FORMA SENCILLA Y SEGURA.
 Para autenticar a los usuarios, fácil de usar E implementar.
+
+En el apartado de repository en conjunto con las conexiones a la base de datos podemos implementar usuarios almacenandolos en la base de datos
+
+![img](https://github.com/juandavidgomezgar/Taller6_Java_Web/assets/131215706/5b713f42-c3eb-4a5f-b679-16a6e5199919)
